@@ -16,7 +16,7 @@ import com.taskmanager.entity.Board;
 import com.taskmanager.service.BoardService;
 
 @RestController
-@RequestMapping("/boards")
+@RequestMapping("/api/v1/boards")
 public class BoardController {
 
 	@Autowired

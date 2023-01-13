@@ -21,7 +21,7 @@ import com.taskmanager.entity.Item;
 import com.taskmanager.service.ItemService;
 
 @RestController
-@RequestMapping("/items")
+@RequestMapping("/api/v1/items")
 public class ItemController {
 
 	@Autowired
