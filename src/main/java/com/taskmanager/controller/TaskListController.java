@@ -20,7 +20,7 @@ import com.taskmanager.entity.TaskList;
 import com.taskmanager.service.TaskListService;
 
 @RestController
-@RequestMapping("/lists")
+@RequestMapping("/api/v1/lists")
 public class TaskListController {
 
 	@Autowired
