@@ -1,5 +1,6 @@
 # TaskManager
 I have created Task manager API in spring boot  using mysql database.
+It is CRUD API basically create, update, Delete and Fetch board, list & items and also reorder the list and items. 
 
 ## Board API
 
